@@ -11,7 +11,7 @@ Interested in Clean Architecture, scalable mobile apps and modern Android develo
 <p>
 <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,firebase,androidstudio,gradle,git,github,gitlab"/>
 </p>
-## 🐍 Contribution Snake
+
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ### Android
